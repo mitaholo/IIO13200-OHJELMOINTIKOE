@@ -1,0 +1,14 @@
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\bin\Debug\NeTentti.exe.config
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\bin\Debug\NeTentti.exe
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\bin\Debug\NeTentti.pdb
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\Tehtava1b.csprojResolveAssemblyReference.cache
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\MainWindow.g.cs
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\App.g.cs
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\NeTentti_MarkupCompile.cache
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\NeTentti_MarkupCompile.lref
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\MainWindow.baml
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\NeTentti.g.resources
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\NeTentti.Properties.Resources.resources
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\Tehtava1b.csproj.GenerateResource.Cache
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\NeTentti.exe
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\NeTentti\obj\Debug\NeTentti.pdb

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Tehtava2WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tehtava2WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800"
+        HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+    <DockPanel LastChildFill="True">
+        <StackPanel Orientation="Horizontal" Margin="0,5,0,5" DockPanel.Dock="Top" HorizontalAlignment="Stretch" Height="35">
+            <Button x:Name="btnCountCountries" Content="Laske maat" HorizontalAlignment="Left" Margin="10,0,10,0" VerticalAlignment="Top" Width="100" Click="CountCountries"/>
+            <Button x:Name="btnCountPopulations" Content="Laske asukkaat" HorizontalAlignment="Left" Margin="10,0,10,0" VerticalAlignment="Top" Width="100" Click="CountPopulations"/>            
+            <Button x:Name="btnTopPop" Content="Top-10 asukasluvut" HorizontalAlignment="Left" Margin="10,0,10,0" VerticalAlignment="Top" Width="100" Click="TopPopulation" />
+            <Button x:Name="btnTopArea" Content="Top-10 pinta-alat" HorizontalAlignment="Left" Margin="10,0,10,0" VerticalAlignment="Top" Width="100" Click="TopArea"/>
+            <Label x:Name="lblFilterName" Margin="10,0,5,0" Content="Suodata nimellä:" />
+            <TextBox x:Name="txtFilterName" Text="" Margin="0,0,10,0" Height="35" Width="100"/>
+            <Button x:Name="btnFilterName" Content="Suodata" HorizontalAlignment="Left" Margin="10,0,10,0" VerticalAlignment="Top" Width="100" Click="FilterName"/>
+            <Label x:Name="lblSelectContinent" Margin="10,0,5,0" Content="Valitse maanosa:" />
+            <ComboBox x:Name="cbSelectContinent" ItemsSource="{Binding}" Width="100"/>
+            <Button x:Name="btnSelectContinent" Content="Valitse" HorizontalAlignment="Left" Margin="10,0,10,0" VerticalAlignment="Top" Width="100" Click="SelectContinent"/>
+        </StackPanel>
+        <DataGrid x:Name="dgCountries" ItemsSource="{Binding}" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch" DockPanel.Dock="Bottom" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto"/>
+    </DockPanel>
+</Window>

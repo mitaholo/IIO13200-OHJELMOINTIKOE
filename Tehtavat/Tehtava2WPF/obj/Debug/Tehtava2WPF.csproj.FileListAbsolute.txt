@@ -1,0 +1,14 @@
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\bin\Debug\Tehtava2WPF.exe.config
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\bin\Debug\Tehtava2WPF.exe
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\bin\Debug\Tehtava2WPF.pdb
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF.csprojResolveAssemblyReference.cache
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\App.g.cs
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF_MarkupCompile.cache
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF_MarkupCompile.lref
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\MainWindow.baml
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF.g.resources
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF.Properties.Resources.resources
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF.csproj.GenerateResource.Cache
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF.exe
+C:\Users\Mikko Holopainen\Documents\GitHubVisualStudio\IIO13200_NET_15S\NeTentti\Tehtava2WPF\obj\Debug\Tehtava2WPF.pdb
